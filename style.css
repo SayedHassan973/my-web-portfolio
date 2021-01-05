@@ -5,8 +5,13 @@ img{
     width:  1350px;
     height: 200px;
 }
-.image{
-    
+.half-width{
+    width: 30%;
+    float: left;
+   
 }
 
+.half-width img{
+    width: 100%;
+}
   
